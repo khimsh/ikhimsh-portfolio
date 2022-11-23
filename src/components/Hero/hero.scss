@@ -1,0 +1,44 @@
+.hero {
+    padding-block: 6em;
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 2rem;
+
+    &__texts {
+        display: grid;
+        gap: 2rem;
+
+        @media (max-width: 1200px) {
+            width: 100%;
+        }
+    }
+
+    &__image {
+        @media (max-width: 1200px) {
+            display: none;
+        }
+    }
+
+    &__title {
+        font-size: clamp(2rem, 4vw + 1rem, 4rem);
+        text-transform: capitalize;
+
+        @media (max-width: 1200px) {
+            text-align: center;
+        }
+    }
+}
+
+.social {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 1.75em;
+
+    @media (max-width: 1200px) {
+        justify-content: center;
+    }
+}

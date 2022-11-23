@@ -1,0 +1,52 @@
+{
+    "works": [
+        {
+            "title": "Mototravel",
+            "desc": "website for people who love traveling and motorcycles.",
+            "link": "https://mototraveltbilisi.com/",
+            "image": "/images/mototraveltbilisi.jpg"
+        },
+        {
+            "title": "President.Ge",
+            "desc": "Website for the president of Georgia.",
+            "link": "https://president.ge/",
+            "image": "/images/president.jpg"
+        },
+        {
+            "title": "Mzetamze",
+            "desc": "Mzetamze bread is made of Georgian endemic wheat flour, using Georgian traditional method.",
+            "link": "https://mzetamze.ge/index.php?m=2",
+            "image": "/images/mzetamze.jpg"
+        },
+        {
+            "title": "Visitkobuleti.Com",
+            "desc": "Kobuleti Municipality is rich with beautiful nature and cultural-historical monuments",
+            "link": "https://visitkobuleti.com/geo/home",
+            "image": "/images/visitkobuleti.jpg"
+        },
+        {
+            "title": "Tenders.Ge",
+            "desc": "Announce tenders easily, deliver information to more than 30,000 suppliers, receive bids online and manage your procurement efficiently",
+            "link": "https://tenders.ge/",
+            "image": "/images/tenders.jpg"
+        },
+        {
+            "title": "Mtevino",
+            "desc": "Mtevino Winery is located near Tbilisi in Khashmi Village at Sagarejo Municipality (20 minutes drive from the Tbilisi airport). It is 40 km from Tbilisi.",
+            "link": "http://mtevino.ge/",
+            "image": "/images/mtevino.jpg"
+        },
+        {
+            "title": "Cushwake.Ge",
+            "desc": "Cushman & Wakefield Georgia, a global real estate company focused on guiding our clients with strategic insights and innovative solutions, and placing them at the center of what’s next.",
+            "link": "https://www.cushwake.ge/",
+            "image": "/images/cushwake.jpg"
+        },
+        {
+            "title": "SwapLink",
+            "desc": "Swap Algorand assets with a peer.",
+            "link": "https://test.swaplink.xyz/",
+            "image": "/images/swaplink.jpg"
+        }
+    ]
+}
