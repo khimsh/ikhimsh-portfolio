@@ -41,4 +41,14 @@
     @media (max-width: 1200px) {
         justify-content: center;
     }
+
+    &__item {
+        color: rgb(246, 246, 246);
+        transition: color 200ms ease-in-out 0s;
+
+        &:hover,
+        &:active {
+            color: var(--clr-brand);
+        }
+    }
 }
